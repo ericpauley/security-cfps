@@ -14,7 +14,7 @@ The security community is continually working to improve itself, and one major v
 | 2015 | https://web.archive.org/web/20141012095458/http://www.ieee-security.org/TC/SP2015/cfpapers.html |
 | 2016 | https://web.archive.org/web/20150821234309/http://www.ieee-security.org/TC/SP2016/cfpapers.html |
 | 2017 | https://web.archive.org/web/20160815112114/http://www.ieee-security.org/TC/SP2017/cfpapers.html |
-| 2018 | https://web.archive.org/web/20160815112114/http://www.ieee-security.org/TC/SP2017/cfpapers.html |
+| 2018 | https://web.archive.org/web/20171208135935/https://www.ieee-security.org/TC/SP2018/cfpapers.html |
 | 2019 | https://web.archive.org/web/20180907210936/http://www.ieee-security.org/TC/SP2019/cfpapers.html |
 | 2020 | https://web.archive.org/web/20190715124439/http://www.ieee-security.org/TC/SP2020/cfpapers.html |
 | 2021 | https://web.archive.org/web/20201119052503/https://www.ieee-security.org/TC/SP2021/cfpapers.html |
